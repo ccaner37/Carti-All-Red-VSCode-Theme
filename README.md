@@ -1,2 +1,4 @@
-# Carti-All-Red-VSCode-Theme
-Playboi Carti ALL RED VSCode theme.
+## Playboi Carti All Red VSCode Theme
+drop "carti-all-red-theme-0.0.1" to "%USERPROFILE%\.vscode\extensions"\\
+#### Preview
+![](screenshot.png)
